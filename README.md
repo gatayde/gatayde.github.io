@@ -1,4 +1,1 @@
-
-# Site-Google-Glass
-# gatayde.github.io
-# gatayde.github.io
+# gatayde-gatayde.github.io
